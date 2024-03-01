@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_delete - deletes an entire binary tree
+ * binary_tree_delete - deletes binary tree
  * @tree: input tree
  */
 void binary_tree_delete(binary_tree_t *tree)
